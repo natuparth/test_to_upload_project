@@ -68,7 +68,7 @@
         </h1>
             
             <ul class="menu">
-                <li><a href="index.jsp">Home</a></li>
+                <li><a href="index.jsp">Home Page</a></li>
                 <li><a href="Logout">Logout</a></li>
                 <li><a href="updateProfile.jsp">UpdateProfile</a></li>                
             </ul>
